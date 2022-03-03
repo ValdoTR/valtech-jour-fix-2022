@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-spacestation-west"
+                 "value":"/@/valtech-mobility/chariotsofbits/space#from-spacestation-west"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-spacestation-north"
+                 "value":"/@/valtech-mobility/chariotsofbits/space#from-spacestation-north"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -582,7 +582,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Valtech Mobility Jour Fixe event 2020, Spacestation map."
+         "value":"Valtech Mobility Jour Fixe event 2022, Spacestation map."
         }, 
         {
          "name":"mapImage",

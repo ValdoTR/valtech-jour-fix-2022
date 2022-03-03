@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-earth"
+                 "value":"/@/valtech-mobility/chariotsofbits/space#from-earth"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -213,7 +213,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Valtech Mobility Jour Fixe event 2020, Earth map."
+         "value":"Valtech Mobility Jour Fixe event 2022, Earth map."
         }, 
         {
          "name":"mapImage",

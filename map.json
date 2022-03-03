@@ -129,7 +129,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/spacestation.json#from-space-north"
+                         "value":"/@/valtech-mobility/chariotsofbits/spacestation#from-space-north"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -147,7 +147,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/spacestation.json#from-space-west"
+                         "value":"/@/valtech-mobility/chariotsofbits/spacestation#from-space-west"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -165,7 +165,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/earth.json#from-space"
+                         "value":"/@/valtech-mobility/chariotsofbits/earth#from-space"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -183,7 +183,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/mothership.json#from-space-east"
+                         "value":"/@/valtech-mobility/chariotsofbits/mothership#from-space-east"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -201,7 +201,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/mothership.json#from-space-south"
+                         "value":"/@/valtech-mobility/chariotsofbits/mothership#from-space-south"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -313,7 +313,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Valtech Mobility Jour Fixe event 2020, space map."
+         "value":"Valtech Mobility Jour Fixe event 2022, space map."
         }, 
         {
          "name":"mapImage",

@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-mothership-south"
+                 "value":"/@/valtech-mobility/chariotsofbits/space#from-mothership-south"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#from-mothership-east"
+                 "value":"/@/valtech-mobility/chariotsofbits/space#from-mothership-east"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -391,7 +391,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Valtech Mobility Jour Fixe event 2020, Mothership map."
+         "value":"Valtech Mobility Jour Fixe event 2022, Mothership map."
         }, 
         {
          "name":"mapImage",
